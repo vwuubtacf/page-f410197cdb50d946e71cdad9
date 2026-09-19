@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "a6471372ae51e71c6ffb0f76",
+  "owner": "vwuubtacf",
+  "repo": "page-f410197cdb50d946e71cdad9",
+  "title": "Clash Mi客户端快速下载",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f410197cdb50d946e71cdad9",
+      "a": "MIMEMI",
+      "b": "Clash Mi客户端快速下载",
+      "entity": "MIMEMI",
+      "brand": "Clash Mi客户端快速下载",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "a41b71b4a522dc37a1827aea743f41b017d29f0d62ec75328460ab7b6b2bbfeb",
+      "content": {
+        "primary_entity": "MIMEMI",
+        "keyword1": "MIMEMI",
+        "keyword2": "Clash Mi客户端快速下载",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选客户端：Windows、macOS、Android、iOS 与路由器各有适配版本，也可选用 Clash Mi 客户端导入订阅。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "选好套餐就能开始配置，先下载对应客户端再导入订阅。",
+          "AI_CLOSING_TITLE": "准备好设备，开始加速",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，覆盖 3 至 20 台设备在线，月付 15 元起、年付 150 元起。支持 Clash Mi 客户端导入订阅，适合多设备用户按流量与在线数量对比选择。",
+          "AI_FEATURES_INTRO": "从设备数量、月流量和加速线路三个角度对比套餐。",
+          "AI_FEATURES_TITLE": "套餐与设备匹配",
+          "AI_FEATURE_TEXT_1": "基础版 3 台设备 100GB 流量，旗舰版 5 台设备 300GB 流量，团队版 20 台设备 1000GB 流量，按需选择。",
+          "AI_FEATURE_TEXT_2": "旗舰版提供 IPLC 专线游戏加速优化与全节点原生流媒体解锁，适合对延迟和画质有要求的场景。",
+          "AI_FEATURE_TEXT_3": "年付更划算，基础版 150 元/年、旗舰版 350 元/年、团队版 850 元/年，长期使用可优先考虑。",
+          "AI_FEATURE_TITLE_1": "设备与流量",
+          "AI_FEATURE_TITLE_2": "线路与解锁",
+          "AI_FEATURE_TITLE_3": "计费周期",
+          "AI_GUIDE_INTRO": "从选套餐到导入订阅，三步完成配置。",
+          "AI_GUIDE_TITLE": "配置三步走",
+          "AI_HERO_INTRO": "MIMEMI 提供多档海外加速订阅，覆盖基础到团队场景。按设备数量与月流量选择套餐，再导入 Clash Mi 客户端订阅即可使用。",
+          "AI_HERO_SUBTITLE": "多设备订阅，按需选套餐",
+          "AI_HIGHLIGHT_1": "月付 15 元起，年付更划算",
+          "AI_HIGHLIGHT_2": "3 至 20 台设备可选",
+          "AI_HIGHLIGHT_3": "支持 Clash Mi 客户端订阅",
+          "AI_PLANS_INTRO": "基础版适合轻量单人或两三人使用，旗舰版平衡流量与设备数并带专线优化，团队版面向多设备高流量场景。对比月付和年付价格，按在线设备数与每月流量选定档位。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_STEP_TEXT_1": "先确定同时在线设备数量与每月流量需求，再对照基础版、旗舰版和团队版选定订阅。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认客户端系统版本与在线设备数符合套餐权益。",
+          "AI_STEP_TEXT_3": "按对应客户端文档导入订阅，Clash Mi 客户端可直接粘贴订阅链接完成配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "MIMEMI 海外加速订阅",
+          "AI_FAQ_ANSWER_1": "按设备数量、每月流量和周期选。单人日常用基础版；游戏或 5 台设备用旗舰版；多人团队用团队版。",
+          "AI_FAQ_ANSWER_2": "基础版 3 台，旗舰版 5 台，团队版 20 台。可先按常用设备数选套餐，后续升级灵活。",
+          "AI_FAQ_ANSWER_3": "选择套餐后按对应客户端文档导入订阅链接即可。不同系统操作略有不同，请以客户端说明为准。",
+          "AI_FAQ_ANSWER_4": "年付通常比月付省两个月费用。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850。",
+          "AI_FAQ_ANSWER_5": "旗舰版含 IPLC 专线游戏加速优化和 7x24 优先工单支持，团队版另含 VIP 高带宽节点与企业定制路由。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "怎么根据需求选套餐版本？",
+          "AI_FAQ_QUESTION_2": "每个版本支持多少台设备？",
+          "AI_FAQ_QUESTION_3": "订阅如何导入客户端？",
+          "AI_FAQ_QUESTION_4": "月付和年付价格差多少？",
+          "AI_FAQ_QUESTION_5": "旗舰版比基础版多了什么？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "575462f4b4b6779bd6392cf36c133ffcf33b95d6b9cd6c0fa58cf5855466fd58",
+    "sitemap.xml": "ca68a6c1db4657a08b70d6ee031cd182f8a3560d19c176bb234a2f9d52180959",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "911abcf78ba4262546109383dae283f6b65731712c682c11ad5ebddd2f14d0f5"
+}
